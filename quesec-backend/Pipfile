@@ -1,0 +1,12 @@
+[packages]
+flask-restful = "*"
+inline = "*"
+flask_cors = "*"
+pandas = "*"
+yahoo_fin = "*"
+yfinance = "*"
+seaborn = "*"
+pandas_datareader="*"
+
+[requires]
+python_version = "3.8"
